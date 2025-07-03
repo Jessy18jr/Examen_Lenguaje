@@ -1,0 +1,8 @@
+C:\Users\us\source\repos\LenguajeExamen\LenguajeExamen\bin\Debug\LenguajeExamen.exe.config
+C:\Users\us\source\repos\LenguajeExamen\LenguajeExamen\bin\Debug\LenguajeExamen.exe
+C:\Users\us\source\repos\LenguajeExamen\LenguajeExamen\bin\Debug\LenguajeExamen.pdb
+C:\Users\us\source\repos\LenguajeExamen\LenguajeExamen\obj\Debug\LenguajeExamen.csproj.AssemblyReference.cache
+C:\Users\us\source\repos\LenguajeExamen\LenguajeExamen\obj\Debug\LenguajeExamen.csproj.CoreCompileInputs.cache
+C:\Users\us\source\repos\LenguajeExamen\LenguajeExamen\obj\Debug\LenguajeExamen.exe
+C:\Users\us\source\repos\LenguajeExamen\LenguajeExamen\obj\Debug\LenguajeExamen.pdb
+C:\Users\us\source\repos\LenguajeExamen\LenguajeExamen\obj\Debug\LenguajeExamen.exe.config
